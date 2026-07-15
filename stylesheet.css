@@ -1,11 +1,11 @@
 body{
-    background-color: rgb(28, 30, 39);
+    background-image: url("bgtumblr2.jpg")
 }
 header{
-    background-color: rgb(186, 170, 145);
+    background-color:rgb(247, 210, 151);
 }
 section{
-    background-color: rgb(186, 170, 145);
+    background-color: rgb(247, 210, 151);
 }
 h1{
     color:rgb(25, 37, 98);
@@ -15,4 +15,7 @@ img{
     margin: auto;
     max-width: 50%;
     height:auto;
+}
+.Cya {
+    background-color:rgb(132, 214, 187);
 }
