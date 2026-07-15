@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(28, 30, 39);
+}
+header{
+    background-color: rgb(186, 170, 145);
+}
+section{
+    background-color: rgb(186, 170, 145);
+}
+h1{
+    color:rgb(25, 37, 98);
+}
+img{
+    display:block;
+    margin: auto;
+    max-width: 50%;
+    height:auto;
+}
